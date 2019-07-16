@@ -1,0 +1,144 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+AOE
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAOE
+Word: see
+Clusters: s ee
+ARBABET Phonemes: [S IY]
+IPA Phonemes: [s i]
+
+Phonetic Rules:
+	E can be used for the [IY] sound.
+
+
+Stroke: SAOEF
+Word: receive
+Clusters: r e c ei v e
+ARBABET Phonemes: [R IY S IY V]
+IPA Phonemes: [ɹ i s i v]
+
+
+
+Stroke: SAOEFR
+Word: receiver
+Clusters: r e c ei v e r
+ARBABET Phonemes: [R IY S IY V ER]
+IPA Phonemes: [ɹ i s i v ɝ]
+
+
+
+Stroke: SAOER
+Word: seer
+Clusters: s ee r
+ARBABET Phonemes: [S IY R]
+IPA Phonemes: [s i ɹ]
+
+
+
+Stroke: STAOER
+Word: steer
+Clusters: st ee r
+ARBABET Phonemes: [S T IH R]
+IPA Phonemes: [s t ɪ ɹ]
+
+
+
+Stroke: STKAOE
+Word: disease
+Clusters: d i s ea s e
+ARBABET Phonemes: [D IH Z IY Z]
+IPA Phonemes: [d ɪ z i z]
+
+
+
+Stroke: STKAOEF
+Word: deceive
+Clusters: d e c ei v e
+ARBABET Phonemes: [D IH S IY V]
+IPA Phonemes: [d ɪ s i v]
+
+
+
+Stroke: SKAOE
+Word: ski
+Clusters: sk i
+ARBABET Phonemes: [S K IY]
+IPA Phonemes: [s k i]
+
+
+
+Stroke: SKAOEF
+Word: skeeve
+Clusters: sk ee v e
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: SKAOER
+Word: skier
+Clusters: sk ie r
+ARBABET Phonemes: [["S" "K" "AY" "R"] ["S" "K" "IY" "ER"]]
+IPA Phonemes: [ ]
+
+
+
+Stroke: TAOE
+Word: tee
+Clusters: t ee
+ARBABET Phonemes: [T IY]
+IPA Phonemes: [t i]
+
+
+
+Stroke: TAOER
+Word: tier
+Clusters: t ie r
+ARBABET Phonemes: [T IY R]
+IPA Phonemes: [t i ɹ]
+
+
+
+Stroke: TKAOER
+Word: deer
+Clusters: d ee r
+ARBABET Phonemes: [D IH R]
+IPA Phonemes: [d ɪ ɹ]
+
+
+
+Stroke: KAOE
+Word: key
+Clusters: k e y
+ARBABET Phonemes: [K IY]
+IPA Phonemes: [k i]
+
+
+
+Stroke: KAOER
+Word: clear
+Clusters: cl ea r
+ARBABET Phonemes: [K L IH R]
+IPA Phonemes: [k l ɪ ɹ]
+
+
+
+Stroke: AOER
+Word: ear
+Clusters: ea r
+ARBABET Phonemes: [["IH" "R"] ["IY" "R"]]
+IPA Phonemes: [ ]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	E can be used for the [IY] sound.

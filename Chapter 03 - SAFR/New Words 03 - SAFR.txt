@@ -1,0 +1,7 @@
+save	SAF
+saver	SAFR
+savor	SA*FR
+czar	SA*R
+Sr.	S-R
+after	AF
+aver	A*FR

@@ -1,0 +1,68 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+-
+
+Right Hand Shape: 
+
+
+
+Stroke: S
+Word: is
+Clusters: i s
+ARBABET Phonemes: [IH Z]
+IPA Phonemes: [ɪ z]
+
+Phonetic Rules:
+	S- can be used for the [Z] sound.
+
+Brief Rules:
+	Vowels can be dropped to create briefs for frequently used words.
+
+
+Stroke: SK
+Word: ask
+Clusters: a sk
+ARBABET Phonemes: [AE S K]
+IPA Phonemes: [æ s k]
+
+Phonetic Rules:
+	K- can be used for the [K] sound.
+
+
+Stroke: T
+Word: it
+Clusters: i t
+ARBABET Phonemes: [IH T]
+IPA Phonemes: [ɪ t]
+
+Phonetic Rules:
+	T- can be used for the [T] sound.
+
+
+Stroke: TK
+Word: did
+Clusters: d i d
+ARBABET Phonemes: [D IH D]
+IPA Phonemes: [d ɪ d]
+
+
+
+Stroke: K
+Word: can
+Clusters: c a n
+ARBABET Phonemes: [K AE N]
+IPA Phonemes: [k æ n]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	S- can be used for the [Z] sound.
+	K- can be used for the [K] sound.
+	T- can be used for the [T] sound.
+
+Brief Rules:
+	Vowels can be dropped to create briefs for frequently used words.

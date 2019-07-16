@@ -1,0 +1,16 @@
+see	SAOE
+receive	SAOEF
+receiver	SAOEFR
+seer	SAOER
+steer	STAOER
+disease	STKAOE
+deceive	STKAOEF
+ski	SKAOE
+skeeve	SKAOEF
+skier	SKAOER
+tee	TAOE
+tier	TAOER
+deer	TKAOER
+key	KAOE
+clear	KAOER
+ear	AOER

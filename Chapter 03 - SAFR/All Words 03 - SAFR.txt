@@ -1,0 +1,15 @@
+is	S
+save	SAF
+saver	SAFR
+savor	SA*FR
+czar	SA*R
+Sr.	S-R
+ask	SK
+it	T
+did	TK
+can	K
+after	AF
+aver	A*FR
+of	-F
+ever	-FR
+are	-R

@@ -1,0 +1,17 @@
+sea	SAE
+essay	SA*E
+satisfy	SAEF
+sear	SAER
+satisfy	STAEF
+stare	STAER
+scary	SKAER
+tea	TAE
+active	TAEF
+tear	TAER
+tare	TA*ER
+deaf	TKAEF
+dear	TKAER
+cay	KA*E
+carry	KAER
+avenue	AEF
+eave	A*EF

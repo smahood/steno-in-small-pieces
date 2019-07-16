@@ -1,0 +1,13 @@
+staff	STAF
+staph	STA*F
+staffer	STAFR
+star	STAR
+sister	ST-R
+scarf	SKAFR
+scar	SKAR
+asker	SK-R
+that	TA
+tar	TAR
+TV	T*F
+cave	KAF
+car	KAR

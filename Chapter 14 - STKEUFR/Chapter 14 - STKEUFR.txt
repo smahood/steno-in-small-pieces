@@ -1,0 +1,117 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+EU
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SEUF
+Word: sieve
+Clusters: s ie v e
+ARBABET Phonemes: [S IH V]
+IPA Phonemes: [s ɪ v]
+
+Phonetic Rules:
+	EU can be used for the [IH] sound.
+
+
+Stroke: S*EUF
+Word: assistive
+Clusters: a ss i st i v e
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: SEUR
+Word: sir
+Clusters: s i r
+ARBABET Phonemes: [S ER]
+IPA Phonemes: [s ɝ]
+
+Orthographic Rules:
+	EU can be used for the cluster 'I',  regardless of how it sounds.
+
+
+Stroke: STEU
+Word: city
+Clusters: c i t y
+ARBABET Phonemes: [S IH T IY]
+IPA Phonemes: [s ɪ t i]
+
+
+
+Stroke: ST*EU
+Word: City
+Clusters: c i t y
+ARBABET Phonemes: [S IH T IY]
+IPA Phonemes: [s ɪ t i]
+
+
+
+Stroke: STEUF
+Word: stiff
+Clusters: st i ff
+ARBABET Phonemes: [S T IH F]
+IPA Phonemes: [s t ɪ f]
+
+
+
+Stroke: STEUFR
+Word: stiffer
+Clusters: st i ff e r
+ARBABET Phonemes: [S T IH F ER]
+IPA Phonemes: [s t ɪ f ɝ]
+
+
+
+Stroke: STEUR
+Word: stir
+Clusters: st i r
+ARBABET Phonemes: [S T ER]
+IPA Phonemes: [s t ɝ]
+
+
+
+Stroke: STKEUF
+Word: sedative
+Clusters: s e d a t i v e
+ARBABET Phonemes: [S EH D AH T IH V]
+IPA Phonemes: [s ɛ d ʌ t ɪ v]
+
+
+
+Stroke: SKEUF
+Word: skiff
+Clusters: sk i ff
+ARBABET Phonemes: [S K IH F]
+IPA Phonemes: [s k ɪ f]
+
+
+
+Stroke: EU
+Word: I
+Clusters: i
+ARBABET Phonemes: [AY]
+IPA Phonemes: [aɪ]
+
+
+
+Stroke: *EUF
+Word: IV
+Clusters: i v
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	EU can be used for the [IH] sound.
+
+Orthographic Rules:
+	EU can be used for the cluster 'I',  regardless of how it sounds.

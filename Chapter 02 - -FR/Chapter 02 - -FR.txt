@@ -1,0 +1,47 @@
+Left Hand Shape: 
+
+
+Vowel Shape: 
+-
+
+Right Hand Shape: 
+FR
+
+
+Stroke: -F
+Word: of
+Clusters: o f
+ARBABET Phonemes: [AH V]
+IPA Phonemes: [ʌ v]
+
+Phonetic Rules:
+	-F can be used for the [V] sound.
+
+
+Stroke: -FR
+Word: ever
+Clusters: e v e r
+ARBABET Phonemes: [EH V ER]
+IPA Phonemes: [ɛ v ɝ]
+
+Phonetic Rules:
+	-R can be used for the [ER] sound.
+
+
+Stroke: -R
+Word: are
+Clusters: a r e
+ARBABET Phonemes: [AA R]
+IPA Phonemes: [ɑ ɹ]
+
+Phonetic Rules:
+	-R can be used for the [R] sound.
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	-F can be used for the [V] sound.
+	-R can be used for the [ER] sound.
+	-R can be used for the [R] sound.

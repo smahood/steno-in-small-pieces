@@ -1,0 +1,150 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+AOU
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAOU
+Word: sue
+Clusters: s ue
+ARBABET Phonemes: [S UW]
+IPA Phonemes: [s u]
+
+Phonetic Rules:
+	AOU can be used for the [UW] sound.
+
+Brief Rules:
+	Not used for words spelled with "oo" 
+
+
+Stroke: SAOUR
+Word: sewer
+Clusters: s e w e r
+ARBABET Phonemes: [S UW ER]
+IPA Phonemes: [s u ɝ]
+
+
+
+Stroke: STAOU
+Word: stew
+Clusters: st e w
+ARBABET Phonemes: [S T UW]
+IPA Phonemes: [s t u]
+
+
+
+Stroke: SKAOU
+Word: skew
+Clusters: sk e w
+ARBABET Phonemes: [S K Y UW]
+IPA Phonemes: [s k j u]
+
+
+
+Stroke: SKAO*U
+Word: SKU
+Clusters: sk u
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: SKAOUF
+Word: executive
+Clusters: e x e c u t i v e
+ARBABET Phonemes: [IH G Z EH K Y AH T IH V]
+IPA Phonemes: [ɪ ɡ z ɛ k j ʌ t ɪ v]
+
+
+
+Stroke: SKAOUR
+Word: secure
+Clusters: s e c u r e
+ARBABET Phonemes: [S IH K Y UH R]
+IPA Phonemes: [s ɪ k j ʊ ɹ]
+
+
+
+Stroke: SKAO*UR
+Word: skewer
+Clusters: sk e w e r
+ARBABET Phonemes: [S K Y UW ER]
+IPA Phonemes: [s k j u ɝ]
+
+
+
+Stroke: TKAOU
+Word: due
+Clusters: d ue
+ARBABET Phonemes: [["D" "Y" "UW"] ["D" "UW"]]
+IPA Phonemes: [ ]
+
+
+
+Stroke: TKAO*U
+Word: dew
+Clusters: d e w
+ARBABET Phonemes: [D UW]
+IPA Phonemes: [d u]
+
+
+
+Stroke: TKAOUR
+Word: dure
+Clusters: d u r e
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: KAOU
+Word: cue
+Clusters: c ue
+ARBABET Phonemes: [K Y UW]
+IPA Phonemes: [k j u]
+
+
+
+Stroke: KAO*U
+Word: queue
+Clusters: q ueue
+ARBABET Phonemes: [K Y UW]
+IPA Phonemes: [k j u]
+
+
+
+Stroke: KAOUR
+Word: cure
+Clusters: c u r e
+ARBABET Phonemes: [K Y UH R]
+IPA Phonemes: [k j ʊ ɹ]
+
+
+
+Stroke: AOU
+Word: ew
+Clusters: e w
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: AO*U
+Word: ewe
+Clusters: e w e
+ARBABET Phonemes: [Y UW]
+IPA Phonemes: [j u]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	AOU can be used for the [UW] sound.
+
+Brief Rules:
+	Not used for words spelled with "oo" 

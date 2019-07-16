@@ -1,0 +1,10 @@
+zoo	SAO*
+soar	SAOR
+too	TAO
+Tao	TAO*
+door	TKAOR
+coo	KAO*
+cover	KAOFR
+ooh	AO*
+oof	AOF
+oar	AOR

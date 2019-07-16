@@ -1,0 +1,8 @@
+is	S
+ask	SK
+it	T
+did	TK
+can	K
+of	-F
+ever	-FR
+are	-R

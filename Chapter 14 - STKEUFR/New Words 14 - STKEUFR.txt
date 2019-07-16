@@ -1,0 +1,12 @@
+sieve	SEUF
+assistive	S*EUF
+sir	SEUR
+city	STEU
+City	ST*EU
+stiff	STEUF
+stiffer	STEUFR
+stir	STEUR
+sedative	STKEUF
+skiff	SKEUF
+I	EU
+IV	*EUF

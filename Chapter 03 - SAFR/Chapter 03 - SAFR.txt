@@ -1,0 +1,97 @@
+Left Hand Shape: 
+S
+
+Vowel Shape: 
+A
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAF
+Word: save
+Clusters: s a v e
+ARBABET Phonemes: [S EY V]
+IPA Phonemes: [s eɪ v]
+
+Phonetic Rules:
+	S- can be used for the [S] sound.
+	-F can be used for the [V] sound.
+
+Orthographic Rules:
+	A can be used for the cluster 'a',  regardless of how it sounds.
+
+
+Stroke: SAFR
+Word: saver
+Clusters: s a v e r
+ARBABET Phonemes: [S EY V ER]
+IPA Phonemes: [s eɪ v ɝ]
+
+
+
+Stroke: SA*FR
+Word: savor
+Clusters: s a v o r
+ARBABET Phonemes: [S EY V ER]
+IPA Phonemes: [s eɪ v ɝ]
+
+Brief Rules:
+	* can be added to a stroke to distinguish words that sound the same.
+
+
+Stroke: SA*R
+Word: czar
+Clusters: cz a r
+ARBABET Phonemes: [Z AA R]
+IPA Phonemes: [z ɑ ɹ]
+
+
+
+Stroke: S-R
+Word: Sr.
+Clusters: sr
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+Brief Rules:
+	Briefs can be used for spelling-based abbreviations.
+
+
+Stroke: AF
+Word: after
+Clusters: a ft e r
+ARBABET Phonemes: [AE F T ER]
+IPA Phonemes: [æ f t ɝ]
+Syllables: af ter
+Primary Stress: af
+
+Phonetic Rules:
+	-F can be used for the [F] sound.
+
+Brief Rules:
+	Non-stressed syllables can be dropped to create briefs for multi-syllable words.
+
+
+Stroke: A*FR
+Word: aver
+Clusters: a v e r
+ARBABET Phonemes: [EY V ER]
+IPA Phonemes: [eɪ v ɝ]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	S- can be used for the [S] sound.
+	-F can be used for the [V] sound.
+	-F can be used for the [F] sound.
+
+Orthographic Rules:
+	A can be used for the cluster 'a',  regardless of how it sounds.
+
+Brief Rules:
+	* can be added to a stroke to distinguish words that sound the same.
+	Briefs can be used for spelling-based abbreviations.
+	Non-stressed syllables can be dropped to create briefs for multi-syllable words.

@@ -1,0 +1,10 @@
+sour	SOUR
+scow	SKOU
+scour	SKOUR
+tower	TOUR
+dour	TKOUR
+dower	TKO*UR
+cow	KOU
+cower	KOUR
+ow	OU
+our	OUR

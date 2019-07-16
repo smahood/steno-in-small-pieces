@@ -1,0 +1,104 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+AO
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAO*
+Word: zoo
+Clusters: z oo
+ARBABET Phonemes: [Z UW]
+IPA Phonemes: [z u]
+
+Orthographic Rules:
+	OA can be used for the cluster 'oo',  regardless of how it sounds.
+
+
+Stroke: SAOR
+Word: soar
+Clusters: s oa r
+ARBABET Phonemes: [S AO R]
+IPA Phonemes: [s ɔ ɹ]
+
+Orthographic Rules:
+	OA can be used for the cluster 'oa',  regardless of how it sounds.
+
+
+Stroke: TAO
+Word: too
+Clusters: t oo
+ARBABET Phonemes: [T UW]
+IPA Phonemes: [t u]
+
+
+
+Stroke: TAO*
+Word: Tao
+Clusters: t ao
+ARBABET Phonemes: [D AW]
+IPA Phonemes: [d aʊ]
+
+Orthographic Rules:
+	T- can be used for the cluster 't',  regardless of how it sounds.
+	OA can be used for the cluster 'ao',  regardless of how it sounds.
+
+
+Stroke: TKAOR
+Word: door
+Clusters: d oo r
+ARBABET Phonemes: [D AO R]
+IPA Phonemes: [d ɔ ɹ]
+
+
+
+Stroke: KAO*
+Word: coo
+Clusters: c oo
+ARBABET Phonemes: [K UW]
+IPA Phonemes: [k u]
+
+
+
+Stroke: KAOFR
+Word: cover
+Clusters: c o v e r
+ARBABET Phonemes: [K AH V ER]
+IPA Phonemes: [k ʌ v ɝ]
+
+
+
+Stroke: AO*
+Word: ooh
+Clusters: oo h
+ARBABET Phonemes: [UW]
+IPA Phonemes: [u]
+
+
+
+Stroke: AOF
+Word: oof
+Clusters: oo f
+ARBABET Phonemes: [UW F]
+IPA Phonemes: [u f]
+
+
+
+Stroke: AOR
+Word: oar
+Clusters: oa r
+ARBABET Phonemes: [AO R]
+IPA Phonemes: [ɔ ɹ]
+
+----------------
+| New Rules    |
+----------------
+
+Orthographic Rules:
+	OA can be used for the cluster 'oo',  regardless of how it sounds.
+	OA can be used for the cluster 'oa',  regardless of how it sounds.
+	T- can be used for the cluster 't',  regardless of how it sounds.
+	OA can be used for the cluster 'ao',  regardless of how it sounds.

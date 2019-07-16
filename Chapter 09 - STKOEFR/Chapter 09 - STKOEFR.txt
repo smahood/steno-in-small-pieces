@@ -1,0 +1,149 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+OE
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SOE
+Word: sow
+Clusters: s o w
+ARBABET Phonemes: [["S" "AW"] ["S" "OW"]]
+IPA Phonemes: [ ]
+
+Phonetic Rules:
+	OE can be used for the [OW] sound.
+
+
+Stroke: SO*ER
+Word: sorry
+Clusters: s o rr y
+ARBABET Phonemes: [S AA R IY]
+IPA Phonemes: [s ɑ ɹ i]
+
+Brief Rules:
+	OE can be used to signify adding an ending [IY] sound.
+
+
+Stroke: STOE
+Word: stow
+Clusters: st o w
+ARBABET Phonemes: [S T OW]
+IPA Phonemes: [s t oʊ]
+
+
+
+Stroke: STOER
+Word: story
+Clusters: st o r y
+ARBABET Phonemes: [S T AO R IY]
+IPA Phonemes: [s t ɔ ɹ i]
+
+
+
+Stroke: SKOE
+Word: psycho
+Clusters: ps y ch o
+ARBABET Phonemes: [S AY K OW]
+IPA Phonemes: [s aɪ k oʊ]
+
+
+
+Stroke: SKOEFR
+Word: discovery
+Clusters: d i sc o v e r y
+ARBABET Phonemes: [D IH S K AH V ER IY]
+IPA Phonemes: [d ɪ s k ʌ v ɝ i]
+
+
+
+Stroke: TOE
+Word: tow
+Clusters: t o w
+ARBABET Phonemes: [T OW]
+IPA Phonemes: [t oʊ]
+
+
+
+Stroke: TO*E
+Word: toe
+Clusters: t oe
+ARBABET Phonemes: [T OW]
+IPA Phonemes: [t oʊ]
+
+
+
+Stroke: TKOE
+Word: dough
+Clusters: d ou gh
+ARBABET Phonemes: [D OW]
+IPA Phonemes: [d oʊ]
+
+
+
+Stroke: TKO*E
+Word: doe
+Clusters: d oe
+ARBABET Phonemes: [D OW]
+IPA Phonemes: [d oʊ]
+
+
+
+Stroke: KOEF
+Word: cove
+Clusters: c o v e
+ARBABET Phonemes: [K OW V]
+IPA Phonemes: [k oʊ v]
+
+
+
+Stroke: KOER
+Word: correspond
+Clusters: c o rr e sp o nd
+ARBABET Phonemes: [K AO R AH S P AA N D]
+IPA Phonemes: [k ɔ ɹ ʌ s p ɑ n d]
+
+
+
+Stroke: OE
+Word: owe
+Clusters: o w e
+ARBABET Phonemes: [OW]
+IPA Phonemes: [oʊ]
+
+
+
+Stroke: OEFR
+Word: over
+Clusters: o v e r
+ARBABET Phonemes: [OW V ER]
+IPA Phonemes: [oʊ v ɝ]
+
+
+
+Stroke: OER
+Word: other
+Clusters: o th e r
+ARBABET Phonemes: [AH DH ER]
+IPA Phonemes: [ʌ ð ɝ]
+
+
+
+Stroke: O*ER
+Word: ore
+Clusters: o r e
+ARBABET Phonemes: [AO R]
+IPA Phonemes: [ɔ ɹ]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	OE can be used for the [OW] sound.
+
+Brief Rules:
+	OE can be used to signify adding an ending [IY] sound.

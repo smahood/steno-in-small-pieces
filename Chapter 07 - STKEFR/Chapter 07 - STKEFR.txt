@@ -1,0 +1,104 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+E
+
+Right Hand Shape: 
+FR
+
+
+Stroke: S*EF
+Word: self
+Clusters: s e lf
+ARBABET Phonemes: [S EH L F]
+IPA Phonemes: [s ɛ l f]
+
+Phonetic Rules:
+	E can be used for the [EH] sound.
+
+
+Stroke: SEFR
+Word: sever
+Clusters: s e v e r
+ARBABET Phonemes: [S EH V ER]
+IPA Phonemes: [s ɛ v ɝ]
+
+
+
+Stroke: S*EFR
+Word: serf
+Clusters: s e rf
+ARBABET Phonemes: [S ER F]
+IPA Phonemes: [s ɝ f]
+
+Orthographic Rules:
+	E can be used for the cluster 'E',  regardless of how it sounds.
+
+
+Stroke: SER
+Word: certificate
+Clusters: c e rt i f i c a t e
+ARBABET Phonemes: [S ER T IH F IH K AH T]
+IPA Phonemes: [s ɝ t ɪ f ɪ k ʌ t]
+
+
+
+Stroke: TEF
+Word: test
+Clusters: t e st
+ARBABET Phonemes: [T EH S T]
+IPA Phonemes: [t ɛ s t]
+
+Phonetic Rules:
+	-F can be used for the [S] sound.
+
+
+Stroke: T*EF
+Word: testify
+Clusters: t e st i f y
+ARBABET Phonemes: [T EH S T IH F AY]
+IPA Phonemes: [t ɛ s t ɪ f aɪ]
+
+
+
+Stroke: TKEFR
+Word: defer
+Clusters: d e f e r
+ARBABET Phonemes: [D IH F ER]
+IPA Phonemes: [d ɪ f ɝ]
+
+
+
+Stroke: K*EF
+Word: contraceptive
+Clusters: c o ntr a c e pt i v e
+ARBABET Phonemes: [K AA N T R AH S EH P T IH V]
+IPA Phonemes: [k ɑ n t ɹ ʌ s ɛ p t ɪ v]
+
+
+
+Stroke: E
+Word: he
+Clusters: h e
+ARBABET Phonemes: [HH IY]
+IPA Phonemes: [h i]
+
+
+
+Stroke: EFR
+Word: every
+Clusters: e v e r y
+ARBABET Phonemes: [EH V R IY]
+IPA Phonemes: [ɛ v ɹ i]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	E can be used for the [EH] sound.
+	-F can be used for the [S] sound.
+
+Orthographic Rules:
+	E can be used for the cluster 'E',  regardless of how it sounds.

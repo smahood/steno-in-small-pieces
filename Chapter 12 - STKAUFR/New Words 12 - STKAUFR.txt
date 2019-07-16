@@ -1,0 +1,7 @@
+saw	SAU
+tau	TAU
+daughter	TKAUR
+caw	KAU
+cougher	KAUFR
+awe	AU
+aw	A*U

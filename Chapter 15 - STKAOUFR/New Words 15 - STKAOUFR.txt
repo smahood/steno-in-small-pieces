@@ -1,0 +1,16 @@
+sue	SAOU
+sewer	SAOUR
+stew	STAOU
+skew	SKAOU
+SKU	SKAO*U
+executive	SKAOUF
+secure	SKAOUR
+skewer	SKAO*UR
+due	TKAOU
+dew	TKAO*U
+dure	TKAOUR
+cue	KAOU
+queue	KAO*U
+cure	KAOUR
+ew	AOU
+ewe	AO*U

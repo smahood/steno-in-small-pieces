@@ -1,0 +1,144 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+AE
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAE
+Word: sea
+Clusters: s ea
+ARBABET Phonemes: [S IY]
+IPA Phonemes: [s i]
+
+Orthographic Rules:
+	E can be used for the cluster 'EA',  regardless of how it sounds.
+
+
+Stroke: SA*E
+Word: essay
+Clusters: e ss a y
+ARBABET Phonemes: [EH S EY]
+IPA Phonemes: [ɛ s eɪ]
+
+
+
+Stroke: SAER
+Word: sear
+Clusters: s ea r
+ARBABET Phonemes: [S IH R]
+IPA Phonemes: [s ɪ ɹ]
+
+
+
+Stroke: STAEF
+Word: satisfy
+Clusters: s a t i sf y
+ARBABET Phonemes: [S AE T IH S F AY]
+IPA Phonemes: [s æ t ɪ s f aɪ]
+
+
+
+Stroke: STAER
+Word: stare
+Clusters: st a r e
+ARBABET Phonemes: [S T EH R]
+IPA Phonemes: [s t ɛ ɹ]
+
+
+
+Stroke: SKAER
+Word: scary
+Clusters: sc a r y
+ARBABET Phonemes: [S K EH R IY]
+IPA Phonemes: [s k ɛ ɹ i]
+
+
+
+Stroke: TAE
+Word: tea
+Clusters: t ea
+ARBABET Phonemes: [T IY]
+IPA Phonemes: [t i]
+
+
+
+Stroke: TAEF
+Word: active
+Clusters: a ct i v e
+ARBABET Phonemes: [AE K T IH V]
+IPA Phonemes: [æ k t ɪ v]
+
+
+
+Stroke: TAER
+Word: tear
+Clusters: t ea r
+ARBABET Phonemes: [["T" "EH" "R"] ["T" "IH" "R"]]
+IPA Phonemes: [ ]
+
+
+
+Stroke: TA*ER
+Word: tare
+Clusters: t a r e
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: TKAEF
+Word: deaf
+Clusters: d ea f
+ARBABET Phonemes: [D EH F]
+IPA Phonemes: [d ɛ f]
+
+
+
+Stroke: TKAER
+Word: dear
+Clusters: d ea r
+ARBABET Phonemes: [D IH R]
+IPA Phonemes: [d ɪ ɹ]
+
+
+
+Stroke: KA*E
+Word: cay
+Clusters: c a y
+ARBABET Phonemes: [K EY]
+IPA Phonemes: [k eɪ]
+
+
+
+Stroke: KAER
+Word: carry
+Clusters: c a rr y
+ARBABET Phonemes: [K EH R IY]
+IPA Phonemes: [k ɛ ɹ i]
+
+
+
+Stroke: AEF
+Word: avenue
+Clusters: a v e n ue
+ARBABET Phonemes: [AE V AH N UW]
+IPA Phonemes: [æ v ʌ n u]
+
+
+
+Stroke: A*EF
+Word: eave
+Clusters: ea v e
+ARBABET Phonemes: [IY V]
+IPA Phonemes: [i v]
+
+----------------
+| New Rules    |
+----------------
+
+Orthographic Rules:
+	E can be used for the cluster 'EA',  regardless of how it sounds.

@@ -1,0 +1,77 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+AU
+
+Right Hand Shape: 
+FR
+
+
+Stroke: SAU
+Word: saw
+Clusters: s a w
+ARBABET Phonemes: [S AO]
+IPA Phonemes: [s ɔ]
+
+Phonetic Rules:
+	AU can be used for the [AO] sound.
+
+
+Stroke: TAU
+Word: tau
+Clusters: t au
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+Orthographic Rules:
+	AU can be used for the cluster '',  regardless of how it sounds.
+
+
+Stroke: TKAUR
+Word: daughter
+Clusters: d au ght e r
+ARBABET Phonemes: [D AO T ER]
+IPA Phonemes: [d ɔ t ɝ]
+
+
+
+Stroke: KAU
+Word: caw
+Clusters: c a w
+ARBABET Phonemes: [K AO]
+IPA Phonemes: [k ɔ]
+
+
+
+Stroke: KAUFR
+Word: cougher
+Clusters: c ou gh e r
+ARBABET Phonemes: []
+IPA Phonemes: []
+
+
+
+Stroke: AU
+Word: awe
+Clusters: a w e
+ARBABET Phonemes: [["AO"] ["AA"]]
+IPA Phonemes: [ ]
+
+
+
+Stroke: A*U
+Word: aw
+Clusters: a w
+ARBABET Phonemes: [AO]
+IPA Phonemes: [ɔ]
+
+----------------
+| New Rules    |
+----------------
+
+Phonetic Rules:
+	AU can be used for the [AO] sound.
+
+Orthographic Rules:
+	AU can be used for the cluster '',  regardless of how it sounds.

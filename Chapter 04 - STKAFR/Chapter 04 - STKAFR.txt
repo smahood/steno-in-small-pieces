@@ -1,0 +1,125 @@
+Left Hand Shape: 
+STK
+
+Vowel Shape: 
+A
+
+Right Hand Shape: 
+FR
+
+
+Stroke: STAF
+Word: staff
+Clusters: st a ff
+ARBABET Phonemes: [S T AE F]
+IPA Phonemes: [s t æ f]
+
+
+
+Stroke: STA*F
+Word: staph
+Clusters: st a ph
+ARBABET Phonemes: [S T AE F]
+IPA Phonemes: [s t æ f]
+
+
+
+Stroke: STAFR
+Word: staffer
+Clusters: st a ff e r
+ARBABET Phonemes: [S T AE F ER]
+IPA Phonemes: [s t æ f ɝ]
+
+
+
+Stroke: STAR
+Word: star
+Clusters: st a r
+ARBABET Phonemes: [S T AA R]
+IPA Phonemes: [s t ɑ ɹ]
+
+
+
+Stroke: ST-R
+Word: sister
+Clusters: s i st e r
+ARBABET Phonemes: [S IH S T ER]
+IPA Phonemes: [s ɪ s t ɝ]
+Syllables: sis ter
+Primary Stress: sis
+
+Brief Rules:
+	Duplicate sounds in a single syllable can be dropped to create briefs.
+
+
+Stroke: SKAFR
+Word: scarf
+Clusters: sc a rf
+ARBABET Phonemes: [S K AA R F]
+IPA Phonemes: [s k ɑ ɹ f]
+
+Brief Rules:
+	Steno order can be reversed for some consonant clusters.
+
+
+Stroke: SKAR
+Word: scar
+Clusters: sc a r
+ARBABET Phonemes: [S K AA R]
+IPA Phonemes: [s k ɑ ɹ]
+
+
+
+Stroke: SK-R
+Word: asker
+Clusters: a sk e r
+ARBABET Phonemes: [AE S K ER]
+IPA Phonemes: [æ s k ɝ]
+
+
+
+Stroke: TA
+Word: that
+Clusters: th a t
+ARBABET Phonemes: [DH AE T]
+IPA Phonemes: [ð æ t]
+
+
+
+Stroke: TAR
+Word: tar
+Clusters: t a r
+ARBABET Phonemes: [T AA R]
+IPA Phonemes: [t ɑ ɹ]
+
+
+
+Stroke: T*F
+Word: TV
+Clusters: tv
+ARBABET Phonemes: [T IY V IY]
+IPA Phonemes: [t i v i]
+
+
+
+Stroke: KAF
+Word: cave
+Clusters: c a v e
+ARBABET Phonemes: [K EY V]
+IPA Phonemes: [k eɪ v]
+
+
+
+Stroke: KAR
+Word: car
+Clusters: c a r
+ARBABET Phonemes: [K AA R]
+IPA Phonemes: [k ɑ ɹ]
+
+----------------
+| New Rules    |
+----------------
+
+Brief Rules:
+	Duplicate sounds in a single syllable can be dropped to create briefs.
+	Steno order can be reversed for some consonant clusters.
