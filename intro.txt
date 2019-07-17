@@ -1,0 +1,66 @@
+Chapter 1
+
+- The keyboard layout - 3 sections - starting consonants, vowels, ending consonants
+- Steno order
+- Overloading of keys and concepts - be aware that it exists, we will be learning as we go
+- Asterisk key to overload strokes and for undo - we will be learning this right from the start
+
+- Start with the first keys in steno order for each section, then add keys as we go
+- We're going to be covering a number of different ideas in each section - mechanical skill and speed, concepts and steno theory,
+phonetic alphabet and phonetic / linguistic theory, and pen steno. Pick and choose which ones you want to learn and don't 
+feel bad about avoiding them - you can always go back and learn them later if you want to, I don't actually know if 
+trying to tackle them all at once will be helpful or not.
+
+I wrote this because I am interested in all of them and wanted to see if I help speed up and reinforce my learning of 
+stenography by approaching it from a bunch of different angles. My impression of stenography education is that it
+doesn't work very well and that it requires a very significant amount of time and effort to become useful as a 
+replacement for traditional typing. I'm terrible at studying and practicing if I'm not extremely interested and 
+engaged, and I'm hoping that this relatively uncommon approach to learning will make it easier to learn the theory 
+and mechanical skills required for stenography.
+
+
+One of the problems I ran into early on when trying to learn stenography is that there aren't 
+so many hard and fast rules - I wanted something with one definitive way to write a word, where 
+everything was consistent. I'm going to do my best to create enough of a base that it feels that way 
+once we get to the additional sections - misstrokes, combinations ("is" and "to" became the "is to" stroke),
+fingerspelling, prefix / suffix. Plus, by the time we get there, readers should be able to type enough 
+of the normal words that they won't need to overly rely on them - though I will have to make sure there's enough
+material there so that they can learn them until they are usable.
+
+
+Starting Letters 
+
+We're going to start with S-, T-, and F-, along with the * key. We're also going to focus only on full, recognizable words, and leave 
+additional concepts until later - we are also going to try to learn only one way of typing each word, which will 
+be the one that is most logical to me.
+The theory behind this approach is to gradually build on the theory and understanding while building
+mechanical speed across the entire keyboard, and hopefully the missing concepts will be easy to pick up both mentally and physically.
+My original approach was trying to learn fingerspelling first and develop a kind of hybrid learning mode
+to be able to use steno full time as soon as possible, but it was such a struggle that I had trouble sustaining
+it. My hope with this is that it will be easier to spend smaller blocks of time on each small addition across 
+a few dimensions of learning with daily reading and practice. With a mix of practice and learning, my goal 
+is to have practiced enough to type at least 30WPM across the whole keyboard at the same time I have 
+learned the theory well enough to use it in practice - then I can start using stenography full time as a 
+replacement for my existing keyboard as quick as possible.
+
+
+Linguistics
+
+Orthography - The system of rules that apply when writing a language in order for readers to connect spelling, sound, and meaning. [4]
+
+Phonology - The system of rules that apply when speech sounds are put together to form words and meaning. 
+
+Grapheme - The smallest unit of writing within a specific language.
+
+Morpheme - The smallest segment of a word that expresses a meaning or grammatical property by itself. [2]
+
+Phone - A distinct speech sound or gesture, without reference to meaning or language.
+
+Phoneme - A group of speech sounds that are considered identical within a specific language.
+
+
+References 
+[1] https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/lecture-summaries/
+[2] https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/lecture-summaries/MIT24_900F12_Morphology.pdf
+[3] https://en.wikipedia.org/wiki/Phoneme
+[4] https://en.wikipedia.org/wiki/English_orthography

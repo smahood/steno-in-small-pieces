@@ -1,0 +1,34 @@
+General Concepts and Goals
+
+- Treat hand shapes like chords for practice and learning - separate the left fingers, thumbs, and right fingers
+- Add one key or shape at a time, practice and learn the new words formed by that shape
+- Progression of keys - SAF, TAF, STAF, KAF, SKAF, TKAF, STKAF
+(I'm still not sure how to progress after that, whether to tackle the left hand or vowels fully first or try to alternate each)
+- Only deal with full, reconizable, single-stroke words until the entire keyboard is handled, then go back and deal with full concepts in a similar way (fingerspelling, prefix/suffix, multi-strokes) - if we do the left hand first then fingerspelling could be done earlier
+- Learn the concepts and theory based on the new words introduced for each shape to gradually build up knowledge base
+
+- For each chapter, include these things to help reinforce learning (each should be optional depending on what people want to learn)
+  - Steno theory
+  - Linguistic theory with phonemes, morphemes, etc. (I want to understand and learn this along with the phonetic alphabet)
+  - Printable worksheet practice lessons for Pen Steno (http://plover.stenoknight.com/2018/12/using-machine-stenography-in-pen.html) - I've just started learning this, but I found it helpful for my machine steno recall if I practice a bit before based
+  - Practice list of new words for use with typey type (or integrated practice mode)
+  - Practice list of all words so far for use with typey type (or an integrated practice mode)
+  - I would love to include ergonomic advice throughout, or general practice advice, but not sure if I really know enough to do this properly
+  - Possibly some dictation practice - I'm not sure of this part yet, but if I record and could playback the words at a user-set WPM it might be possible to do
+
+My goal is to make something where people can spend a bit of time each day and make meaningful progress.
+The ideal schedule for me would be something like this
+- in the morning, practice my list of known words for 10 - 15 minutes or until reaching my learning WPM goal (I'm thinking 30 WPM)
+- read through a new chapter
+- practice the new words for 10 - 15 minutes or until reaching WPM goal 
+- before bed, read through the chapter again and practice pen steno
+
+Ideally, at the end of each chapter I want readers to come out of it with these things
+  - Mechanical skill to write their current vocabulary at a speed that could be functional so that at the end of the book they could use it for full-time work
+  - Mechanical skill to write their current vocabulary in pen steno
+  - A growing understanding of the steno theory and how it has been applied so far
+  - A growing understanding of linguistic theory 
+
+
+I expect it will be primarily delivered as a web application, but I would like it to be printable or 
+downloadable as well if that ends up being actually useful.
